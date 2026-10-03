@@ -1,3 +1,2 @@
 # My_First_Repo
-It's my first ever Repo
-## E-Commerce
+**This is the Repo where I learn and practice things of GIT and GITHUB taught to me by my professor**
